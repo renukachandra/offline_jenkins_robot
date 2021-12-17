@@ -5,7 +5,7 @@ PRE-REQUISITES:-
 2.	Pre- installed open jdk-8-jre (run command “sudo apt-get install openjdk-8-jre” to install this jre)
 
 INSTALLATION INSTRUCTIONS AND FOLDER STRUCTURE:-
-1.	Nokia – this folder contains all the helping scripts and files needed for setup.sh
+1.	setup – this folder contains all the helping scripts and files needed for setup.sh
 1.1	Files
 1.1.1	archive_setup  (this folder contains all the helping files for Jenkins_setup.sh)
 1.1.2	samplejob (this folder contains sample xml for job creation in createjob.sh)
